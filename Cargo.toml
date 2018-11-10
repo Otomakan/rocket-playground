@@ -5,4 +5,5 @@ authors = ["Otomakan <jgmisteli@gmail.com>"]
 edition = "2018"
 
 [dependencies]
-rocket = "0.4.0-rc.1"
+rocket = "0.4.0-rc"
+rocket_contrib = "0.4.0-rc"
